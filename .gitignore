@@ -1,0 +1,11 @@
+.DS_Store
+
+*.cmp
+*.out
+*.tst
+
+/tools
+
+*.pdf
+
+demo
